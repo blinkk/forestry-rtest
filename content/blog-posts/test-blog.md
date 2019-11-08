@@ -7,6 +7,8 @@ title = "test blog"
 type = "blog"
 
 +++
-This is the content of the blog post blah blah 
+This is the content of the blog post blah blah
 
 ![](/images/max-di-capua-AhHICglxxx8-unsplash.jpg)
+
+![](/images/ruslan-bardash-g83y6do219w-unsplash.jpg)
