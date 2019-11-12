@@ -9,7 +9,6 @@ contact_info:
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
 type: ''
-draft: true
 
 ---
 > Now I am using "Draft" version and a block quote.
@@ -18,12 +17,14 @@ draft: true
 
 ## To get started, import this site into Forestry or checkout the repository [here](https://github.com/kendallstrautman/starter-blog-hugo "forestry starter blog hugo").
 
-Test hello world! 
+### Here is some text using Heading 3. 
 
-_Here is an image from the template library._ 
+Test hello world!
+
+_Here is an image from the template library._
 
 ![](/images/davisco-5E5N49RWtbA-unsplash.jpg)
 
-**Here is an image I uploaded from my computer:** 
+**Here is an image I uploaded from my computer:**
 
 ![](/images/notorious ploop.jpg)
